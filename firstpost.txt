@@ -1,0 +1,6 @@
+---
+layout: post
+title: first blog post
+---
+
+this is my test blog post
