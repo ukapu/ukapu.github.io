@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+image: DeathGripsHoodie.jpg
 layout: default
 title: Music Time
 ---
