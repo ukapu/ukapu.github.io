@@ -2,7 +2,7 @@
 <html class="fuelux" lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>blog</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -16,7 +16,7 @@
   </head>
   <body data-spy="scroll" data-target=".subnav" data-offset="50">
  
-	<div class="span5 offset4">	
+	<div class="span5 offset3">	
 		<div class="marketing">
 		<div class="content">    
 			{% include post_header.html %}
@@ -27,7 +27,7 @@
 	{% include footer.html %}
 	</div>
 	<div class="span3">
-	<img href="{{ post.image}}" alt="where did the image go">
+	<img href="{{ page.image }}" alt="">
 	</div>  
   </body>
 </html>
