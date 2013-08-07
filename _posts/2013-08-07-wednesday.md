@@ -1,6 +1,7 @@
 ---
 published: true
 title: wednesday
+layout: post
 ---
 
 Listening to: Sam Cooke - Bring It On Home To Me
