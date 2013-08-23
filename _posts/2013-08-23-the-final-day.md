@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+title: the last day
 ---
 
 So it's my final day at Full Stack, after a very fun few months. I've enjoyed the motivation that I get from being in the startup environment. Seeing people actually developing and working "in the wild", so to speak, has been cool. It's also been an excellent working environment, with interesting people and a beautiful office. 
